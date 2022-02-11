@@ -61,6 +61,6 @@ document.getElementById("withdrawBtn").addEventListener("click", function(){
 
 
     // Clear Withdraw Input Field.....
-    withdrawInputField.value = "";    
+    withdrawInputField.value = "";
 
 })
